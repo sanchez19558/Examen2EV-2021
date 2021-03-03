@@ -18,8 +18,8 @@ namespace Ejercicio10
 
          // Declaramos la constante que convierte entre euros y dolares.
         //
-        const double CONV1 = 0.826;  // 1 Euro, 0,826 dólares
-        const double CONV2 = 1.1485; // 1 Euro, 1,1485 libras
+        const double CONV1 = 0.826;  // 1 dolar, 0,826 euros
+        const double CONV2 = 1.1485; // 1 libra, 1,1485 euros
 
         private void btDolaresAEuros_Click(object sender, EventArgs e)
         {
